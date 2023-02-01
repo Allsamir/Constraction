@@ -297,7 +297,8 @@ html{
 .card-1{
        border: 0.1rem solid #ffc000;
        min-height: 38.5rem;
-       color: #232323;   
+       color: #232323;
+       transition: .5s   
 }
 .card-1:hover{
           background-color: #2d3e50;
