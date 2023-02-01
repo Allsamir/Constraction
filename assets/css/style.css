@@ -297,13 +297,14 @@ html{
 .card-1{
        border: 0.1rem solid #ffc000;
        min-height: 38.5rem;
-       color: #232323;
-       transition: .5s;   
+       color: #232323; 
+       transition: .5s;
 }
 .card-1:hover{
           background-color: #2d3e50;
           border: 0.1rem solid #2d3e50;
           color: #fff;
+          transition: .5s;
 }
 .card-1 img{
           display: block;
